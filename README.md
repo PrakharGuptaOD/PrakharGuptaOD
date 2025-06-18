@@ -13,7 +13,7 @@ I also run a super active **AI community**, with nearly 1000 members on WhatsApp
 
 ## 📚 My Learning Journey
 
-Right now, I’m preparing for **IISER Aptitude Test**. I'm super focused on one topic at a time because that's how I roll. I'm also diving deep into:
+Right now, I’m exploring the opportunity to connect with people who are interested in Pedagogy. I'm super focused on one topic at a time because that's how I roll. I'm also diving deep into:
 
 - **Python programming** (from basics like lists and dictionaries to advanced DSA)
 - **Statistics & Data Science**
